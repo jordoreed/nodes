@@ -2,21 +2,12 @@
   "name": "nodes",
   "version": "1.0.0",
   "description": "",
+  "author": "Jordan Reed",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jordoreed/nodes.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jordoreed/nodes/issues"
-  },
-  "homepage": "https://github.com/jordoreed/nodes#readme",
   "dependencies": {
     "axios": "^0.27.2"
   }
